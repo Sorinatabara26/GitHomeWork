@@ -1,6 +1,8 @@
 public class Task1 {
     public static void main(String[] args) {
 
+
+
          /* Create a repo on local, have a basic code in it for printing integers from 1 to 10
         Push it to git hub.
 
@@ -11,7 +13,7 @@ public class Task1 {
 
 
 
-                for (int i = 0; i <= 10; i++) {
+                for (int i = 0; i <= 100; i++) {
                     System.out.println(i);
                 }
 
